@@ -9,3 +9,4 @@ python:3.11-slim
 mongo:5.0.6
 ubuntu:focal
 tiangolo/uvicorn-gunicorn-fastapi:python3.8
+arangodb:latest

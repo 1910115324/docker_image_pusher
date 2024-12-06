@@ -15,3 +15,4 @@ docker.io/rancher/mirrored-flannelcni-flannel:v0.20.0
 mellanox/k8s-rdma-shared-dev-plugin
 nvcr.io/nvidia/k8s-device-plugin:v0.13.0-rc.2
 busybox:1.31.1
+openpai/standard:python_3.6-pytorch_1.4.0-cpu

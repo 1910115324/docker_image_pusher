@@ -17,4 +17,4 @@ nvcr.io/nvidia/k8s-device-plugin:v0.13.0-rc.2
 busybox:1.31.1
 openpai/standard:python_3.6-pytorch_1.4.0-cpu
 wordpress:latest
-dockurr/windows:v4.06
+dockurr/windows

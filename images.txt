@@ -20,3 +20,4 @@ wordpress:latest
 dockurr/windows
 linuxserver/bookstack
 linuxserver/mariadb
+mysql:5.7

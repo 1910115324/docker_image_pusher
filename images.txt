@@ -18,5 +18,5 @@ busybox:1.31.1
 openpai/standard:python_3.6-pytorch_1.4.0-cpu
 wordpress:latest
 dockurr/windows
-linuxserver/bookstack:23.12.1
-linuxserver/mariadb:10.11.5
+linuxserver/bookstack
+linuxserver/mariadb

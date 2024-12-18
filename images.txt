@@ -21,3 +21,4 @@ dockurr/windows
 linuxserver/bookstack
 linuxserver/mariadb
 mysql:5.7
+germey/proxypool

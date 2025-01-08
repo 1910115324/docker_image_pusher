@@ -23,3 +23,4 @@ linuxserver/mariadb
 mysql:5.7
 germey/proxypool
 redis:alpine
+feiyu563/prometheus-alert:latest

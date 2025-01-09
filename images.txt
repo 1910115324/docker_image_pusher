@@ -1,1 +1,1 @@
-feiyu563/prometheus-alert:latest
+osixia/phpldapadmin:latest

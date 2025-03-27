@@ -1,2 +1,2 @@
-python3.8:latest
-python3.10:latest
+python:3.8
+python:3.10

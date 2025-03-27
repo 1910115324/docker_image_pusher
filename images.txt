@@ -1,1 +1,1 @@
-uvicorn-gunicorn-fastapi
+uvicorn-gunicorn-fastapi:0.115.6

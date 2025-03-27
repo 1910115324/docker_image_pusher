@@ -1,5 +1,2 @@
-postgres:15-alpine
-redis:6-alpine
-langgenius/dify-sandbox:0.2.10
-ubuntu/squid:latest
-semitechnologies/weaviate:1.19.0
+python3.8:latest
+python3.10:latest

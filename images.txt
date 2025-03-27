@@ -1,1 +1,1 @@
-uvicorn-gunicorn-fastapi:latest
+uvicorn-gunicorn-fastapi

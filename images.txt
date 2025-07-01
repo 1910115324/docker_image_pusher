@@ -1,2 +1,1 @@
-langgenius/dify-api:1.5.0
-langgenius/dify-web:1.5.0
+personalimage/dify-plugin-daemon:0.1.1

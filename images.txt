@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.1.1-local
+python:3.9

@@ -1,1 +1,1 @@
-gpustack/gpustack
+mysql:8.0.16

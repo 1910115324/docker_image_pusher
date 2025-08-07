@@ -1,1 +1,2 @@
-drikster80/vllm-aarch64-openai:latest
+dustynv/vllm:0.8.6-sbsa-cu128
+skandermoalla/vllm:v0.7.3-56982c83-arm64-cuda-gh200

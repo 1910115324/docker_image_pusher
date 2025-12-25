@@ -1,1 +1,1 @@
-apache/airflow:slim-latest-python3.13
+mysql:8.4
